@@ -35,7 +35,7 @@ A calculadora de IMC permite ao usuário inserir seu peso e altura, calcular o I
 
 ## Estrutura do Projeto
 
-- `calculadora_imc.py`: O script principal que contém a lógica da calculadora de IMC e a interface gráfica.
+- `imc.py`: O script principal que contém a lógica da calculadora de IMC e a interface gráfica.
 
 ## Contribuindo
 
