@@ -6,7 +6,7 @@ Este projeto é uma calculadora simples de Índice de Massa Corporal (IMC) com u
 
 A calculadora de IMC permite ao usuário inserir seu peso e altura, calcular o IMC e exibir o resultado na interface gráfica. O IMC é calculado usando a fórmula:
 
-\[ \text{IMC} = \frac{\text{peso (kg)}}{\text{altura (m)}^2} \]
+   IMC = peso(kg)\altura(m)^2   
 
 ## Requisitos
 
